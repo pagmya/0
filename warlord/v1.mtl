@@ -1,0 +1,96 @@
+# Blender 5.2.2 LTS MTL File: 'Untitled.blend'
+# www.blender.org
+
+newmtl Warlord_Frame
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.312500 0.312500 0.312500
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump -bm 1.000000 textures/framen.png
+
+newmtl Warlord_armor
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.375000 0.375000 0.375000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/armor.png
+map_Bump -bm 1.000000 textures/armor_n.png
+
+newmtl Warlord_head
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.375000 0.375000 0.375000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/head.png
+map_Bump -bm 1.000000 textures/head_n.png
+
+newmtl head_lights
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.375000 0.375000 0.375000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump -bm 1.000000 textures/head_n.png
+
+newmtl reavertitan_armor
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.281250 0.281250 0.281250
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/armor1.png
+
+newmtl reavertitan_guns
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.625000 0.625000 0.625000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl reavertitan_lowerbody
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.281250 0.281250 0.281250
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/frame.png
+
+newmtl tex_0000_1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.281250 0.281250 0.281250
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/weapon.png
+
+newmtl titan_warlord_08_difout
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.062500 0.062500 0.062500
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/frame.png
